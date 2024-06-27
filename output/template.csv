@@ -1,1 +1,1 @@
-﻿dataset_id,dataset_name,image_url,catalogNumber,ocr,scientificName,country,day,month,year,locality,maximumElevationInMeters,minimumElevationInMeters,decimalLatitude,decimalLongitude,recordedBy,identifiedBy
+﻿gbifID,dataset_id,dataset_name,image_url,ocr

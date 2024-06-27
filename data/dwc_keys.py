@@ -1,0 +1,20 @@
+fields = {
+    'scientificName': None,
+    'verbatimEventDate': "Date collected - NB! Months may be in roman numerals (eg 1940 IV 06)",
+    'eventDate': "Convert verbatimEventDate to Y-m-d",
+    'recordedBy': "Collector's name(s) - '|' separated if multiple",
+    'verbatimIdentification': "Taxonomic identification as it appeared in the original record",
+    'dateIdentified': "Convert to Y-m-d. Be careful not to mix up with eventDate",
+    'identifiedBy': "'|' separated if multiple",
+    'country': "Country where collected, verbatim",
+    'countryCode': "ISO 3166-1-alpha-2 code for 'country'",
+    'verbatimLocality': "Location collected, verbatim",
+    'locality': None,
+    'verbatimCoordinates': "The original coordinates in the original coordinate system",
+    'verbatimCoordinateSystem': "If not available, try to guess based on the verbatimCoordinates",
+    'decimalLatitude': "CAREFULLY convert from verbatimCoordinates",
+    'decimalLongitude': "CAREFULLY convert from verbatimCoordinates",
+    'verbatimElevation': None,
+    'minimumElevationInMeters': "Derive from verbatimElevation",
+    'maximumElevationInMeters': "Derive from verbatimElevation"
+}

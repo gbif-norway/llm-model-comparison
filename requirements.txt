@@ -1,4 +1,5 @@
 pandas
+python-dwca-reader
 langchain
 langchain-openai
 langchain_huggingface

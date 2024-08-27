@@ -1,9 +1,22 @@
 import pandas as pd
-from langchain.llms import OpenAI, HuggingFacePipeline
+from langchain_community.llms import HuggingFacePipeline
+from langchain.llms import OpenAI
 from langchain.prompts import ChatPromptTemplate, HumanMessagePromptTemplate, SystemMessagePromptTemplate
 from langchain.chains import LLMChain
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 import argparse
+import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Access environment variables
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+
+# Ensure the API key is set
+if not OPENAI_API_KEY:
+    raise ValueError("OPENAI_API_KEY is not set in the .env file")
 
 # Set up argument parser
 parser = argparse.ArgumentParser(description="Run OCR text through multiple language models")
@@ -22,8 +35,8 @@ chat_prompt = ChatPromptTemplate.from_messages([
 
 # Set up different models
 models = {
-    "gpt-4": OpenAI(model_name="gpt-4"),
-    "gpt-3.5-turbo": OpenAI(model_name="gpt-3.5-turbo"),
+    "gpt-4": OpenAI(model_name="gpt-4", api_key=os.getenv("OPENAI_API_KEY")),
+    "gpt-3.5-turbo": OpenAI(model_name="gpt-3.5-turbo", api_key=os.getenv("OPENAI_API_KEY")),
     "llama-3.1-8b": HuggingFacePipeline.from_model_id(
         model_id="meta-llama/Meta-Llama-3.1-8B-Instruct",
         task="text-generation",

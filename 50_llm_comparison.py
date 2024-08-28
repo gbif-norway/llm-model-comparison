@@ -48,9 +48,9 @@ First you correct any obvious OCR errors, and then you extract ONLY the followin
 - maximumElevationInMeters: The upper limit of the range of elevation in meters.
 - verbatimElevation: The original description of the elevation.
 
-If there are multiple valid values for a term, I separate them with "|". If I can't identify information for a specific term, and/or the term is blank, I skip the term in my response. I respond in minified JSON.
-!IMPORTANT: I only respond with JSON and nothing else.
-!IMPORTANT: You only use the data from the user prompt and do not create fictional data.
+If there are multiple valid values for a term, you separate them with "|". If you can't identify information for a specific term, and/or the term is blank, you skip the term in my response. You respond in minified JSON.
+!IMPORTANT: Respond with JSON and nothing else.
+!IMPORTANT: ONLY use the data from the user prompt and DO NOT create fictional data.
 """)
 parser.add_argument("--user_prompt", type=str, default='{ocr_text}')
 parser.add_argument("--num_rows", type=int, default=10, help="Number of rows to process (default: 10, use -1 for all rows)")

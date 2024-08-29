@@ -1,0 +1,360 @@
+Unnamed: 0,id,accessRights,bibliographicCitation,language,license_x,modified,publisher_x,references_x,rightsHolder_x,type_x,institutionID,collectionID,datasetID,institutionCode,collectionCode,datasetName,ownerInstitutionCode,basisOfRecord,informationWithheld,dataGeneralizations,dynamicProperties,occurrenceID,catalogNumber,recordNumber,recordedBy,recordedByID,individualCount,organismQuantity,organismQuantityType,sex,lifeStage,reproductiveCondition,caste,behavior,vitality,establishmentMeans,degreeOfEstablishment,pathway,georeferenceVerificationStatus,occurrenceStatus,preparations,disposition,associatedOccurrences,associatedReferences,associatedSequences,associatedTaxa,otherCatalogNumbers,occurrenceRemarks,organismID,organismName,organismScope,associatedOrganisms,previousIdentifications,organismRemarks,materialEntityID,materialEntityRemarks,verbatimLabel,materialSampleID,eventID,parentEventID,eventType,fieldNumber,eventDate,eventTime,startDayOfYear,endDayOfYear,year,month,day,verbatimEventDate,habitat,samplingProtocol,sampleSizeValue,sampleSizeUnit,samplingEffort,fieldNotes,eventRemarks,locationID,higherGeographyID,higherGeography,continent,waterBody,islandGroup,island,countryCode,stateProvince,county,municipality,locality,verbatimLocality,verbatimElevation,verticalDatum,verbatimDepth,minimumDistanceAboveSurfaceInMeters,maximumDistanceAboveSurfaceInMeters,locationAccordingTo,locationRemarks,decimalLatitude,decimalLongitude,coordinateUncertaintyInMeters,coordinatePrecision,pointRadiusSpatialFit,verbatimCoordinateSystem,verbatimSRS,footprintWKT,footprintSRS,footprintSpatialFit,georeferencedBy,georeferencedDate,georeferenceProtocol,georeferenceSources,georeferenceRemarks,geologicalContextID,earliestEonOrLowestEonothem,latestEonOrHighestEonothem,earliestEraOrLowestErathem,latestEraOrHighestErathem,earliestPeriodOrLowestSystem,latestPeriodOrHighestSystem,earliestEpochOrLowestSeries,latestEpochOrHighestSeries,earliestAgeOrLowestStage,latestAgeOrHighestStage,lowestBiostratigraphicZone,highestBiostratigraphicZone,lithostratigraphicTerms,group,formation,member,bed,identificationID,verbatimIdentification,identificationQualifier,typeStatus,identifiedBy,identifiedByID,dateIdentified,identificationReferences,identificationVerificationStatus,identificationRemarks,taxonID,scientificNameID,acceptedNameUsageID,parentNameUsageID,originalNameUsageID,nameAccordingToID,namePublishedInID,taxonConceptID,scientificName,acceptedNameUsage,parentNameUsage,originalNameUsage,nameAccordingTo,namePublishedIn,namePublishedInYear,higherClassification,kingdom,phylum,class,order,superfamily,family,subfamily,tribe,subtribe,genus,genericName,subgenus,infragenericEpithet,specificEpithet,infraspecificEpithet,cultivarEpithet,taxonRank,verbatimTaxonRank,vernacularName,nomenclaturalCode,taxonomicStatus,nomenclaturalStatus,taxonRemarks,datasetKey,publishingCountry,lastInterpreted,elevation,elevationAccuracy,depth,depthAccuracy,distanceFromCentroidInMeters,issue,mediaType,hasCoordinate,hasGeospatialIssues,taxonKey,acceptedTaxonKey,kingdomKey,phylumKey,classKey,orderKey,familyKey,genusKey,subgenusKey,speciesKey,species,acceptedScientificName,verbatimScientificName,typifiedName,protocol,lastParsed,lastCrawled,repatriated,relativeOrganismQuantity,projectId,isSequenced,gbifRegion,publishedByGbifRegion,level0Gid,level0Name,level1Gid,level1Name,level2Gid,level2Name,level3Gid,level3Name,iucnRedListCategory,geodeticDatum,coreid,type_y,format,identifier,references_y,title,description,source,audience,created,creator,contributor,publisher_y,license_y,rightsHolder_y,is_valid_image,local_path,scaled_local_path,ocr_text,llama-3.1-8b_response,gpt-4_response,gpt-4o-mini_response,gpt-4-turbo_response
+2,4054294400,,,en,CC_BY_4_0,2022-09-21T00:00:00Z,"National Museum of Nature and Science, Japan",https://www.museum.kagoshima-u.ac.jp/hyouhonsitu.html,,text,,,,KAG,KAG,,,PRESERVED_SPECIMEN,,,,464bc4b5-b390-4bdd-8a57-8bd2cbfa449e,KAG018843,,,,,,,,,,,,,,,,,PRESENT,,,,,,,,,,,,,,,,,,,,,,,08/10/1921,,281,281,1921,10,8,,,,,,,,,,,Asia;Honshu;Japan;Shimane;Masuda-shi Hikimi-cho;Hikimikami,ASIA,,,Honshu,JP,Shimane,Masuda-shi Hikimi-cho,,Hikimikami,匹見上村,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5608957,,,,,,Isodon longitubus (Miq.) Kudô,,,,,,,Plantae|Tracheophyta|Magnoliopsida|Lamiales|Lamiaceae|Isodon|longitubus,Plantae,Tracheophyta,Magnoliopsida,Lamiales,,Lamiaceae,,,,Isodon,Isodon,,,longitubus,,,SPECIES,,アキチョウジ,,ACCEPTED,,,1cbed1d0-f9ac-4b9e-bf3f-a26272bca39e,JP,2024-02-16T04:26:55.561Z,,,,,,INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY,StillImage,FALSE,FALSE,5608957,5608957,6,7707728,220,408,2497,3233634,,5608957,Isodon longitubus,Isodon longitubus (Miq.) Kudô,Isodon longitubus,,EML,2024-02-16T04:26:55.561Z,2024-02-16T04:25:24.047Z,FALSE,,,FALSE,ASIA,ASIA,,,,,,,,,NE,WGS84,4054294400,StillImage,image/jpeg,https://dbs.kaum.kagoshima-u.ac.jp/musedb/s_plant/picture/KAG018843/KAG018843.jpg,,,,,,,,,,,,TRUE,data/images/2_KAG018843.jpg,./data/scaled/2_KAG018843.jpg,"鹿児島大学総合研究博物館 The kagoshima University Museum KAG018843
+鹿児島大学総合研究博物館 The Kagoshima University Museum
+20cm
+018843
+|Rabdoaia longritnba (Miq.) Hara
+アキチョウジ
+Isodon longi tubus Kudo
+Det.by S.Hatusima
+1956
+鹿兒島大學農學部植物標本
+Amethystanthus longitubus. Nak.
+アキチャウジ
+石見国 三上木
+8/X 1921
+内","{
+  ""scientificName"": ""Isodon longi tubus Kudo"",
+  ""catalogNumber"": ""KAG018843"",
+  ""recordNumber"": ""KAG018843"",
+  ""recordedBy"": ""鹿児島大学総合研究博物館"",
+  ""year"": ""1956"",
+  ""month"": ""8"",
+  ""day"": """",
+  ""dateIdentified"": """",
+  ""identifiedBy"": ""S.Hatusima"",
+  ""verbatimIdentification"": """",
+  ""country"": ""JP"",
+  ""countryCode"": ""JP"",
+  ""decimalLatitude"": ""24.4"",
+  ""decimalLongitude"": ""130.5"",
+  ""location"": ""石見国 三上木"",
+  ""minimumElevationInMeters"": ""100"",
+  ""maximumElevationInMeters"": ""300"",
+  ""verbatimElevation"": ""「100m」""
+}","{""scientificName"": ""Rabdoaia longritnba (Miq.) Hara"", ""catalogNumber"": ""KAG018843"", ""recordedBy"": ""The Kagoshima University Museum"", ""year"": ""1956"", ""dateIdentified"": ""8/X 1921"", ""identifiedBy"": ""S.Hatusima"", ""verbatimIdentification"": ""Isodon longi tubus Kudo"", ""country"": ""Japan"", ""location"": ""石見国 三上木""}","{""scientificName"":""Rabdoaia longritnba (Miq.) Hara | Isodon longitubus Kudo | Amethystanthus longitubus Nak."",""catalogNumber"":""KAG018843"",""recordedBy"":""鹿兒島大學農學部植物標本"",""year"":""1956"",""month"":8,""day"":1,""dateIdentified"":""1956"",""identifiedBy"":""S.Hatusima"",""verbatimIdentification"":""アキチョウジ | アキチャウジ"",""location"":""石見国 三上木""}","{""catalogNumber"":""KAG018843"",""scientificName"":""Rabdoaia longituba (Miq.) Hara"",""recordNumber"":""018843"",""identifiedBy"":""S.Hatusima"",""dateIdentified"":""1956"",""verbatimIdentification"":""Isodon longitubus Kudo"",""year"":""1921"",""month"":""10"",""day"":""8"",""country"":""Japan"",""location"":""石見国 三上木""}"
+3,4522297253,,,en,CC_BY_4_0,2023-11-13T00:00:00Z,"National Museum of Nature and Science, Japan",https://www.museum.kagoshima-u.ac.jp/hyouhonsitu.html,,text,,,,KAG,KAG,,,PRESERVED_SPECIMEN,,,,c04e2ad5-72a2-439e-a516-d01257ff9ad8,KAG029813,8107,,,,,,,,,,,,,,,,PRESENT,,,,,,,,,,,,,,,,,,,,,,,07/07/1970,,188,188,1970,7,7,,,,,,,,,,,Asia;Kyushu;Japan;Kagoshima;Soo-shi;Sueyoshi-cho Sakamoto,ASIA,,,Kyushu,JP,Kagoshima,Soo-shi,,Sueyoshi-cho Sakamoto,曽於市末吉町坂本,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10565475,,,,,,Wisteria japonica Siebold & Zucc.,,,,,,,Plantae|Tracheophyta|Magnoliopsida|Fabales|Fabaceae|Wisteriopsis|japonica,Plantae,Tracheophyta,Magnoliopsida,Fabales,,Fabaceae,,,,Wisteriopsis,Wisteria,,,japonica,,,SPECIES,,ナツフジ,,SYNONYM,,,1cbed1d0-f9ac-4b9e-bf3f-a26272bca39e,JP,2024-02-16T04:26:51.415Z,250,,,,,INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY,StillImage,FALSE,FALSE,2961368,10565475,6,7707728,220,1370,5386,9925760,,10565475,Wisteriopsis japonica,Wisteriopsis japonica (Siebold & Zucc.) J.Compton & Schrire,Wisteria japonica,,EML,2024-02-16T04:26:51.415Z,2024-02-16T04:25:24.047Z,FALSE,,,FALSE,ASIA,ASIA,,,,,,,,,NE,WGS84,4522297253,StillImage,image/jpeg,https://dbs.kaum.kagoshima-u.ac.jp/musedb/s_plant/picture/KAG029813/KAG029813.jpg,,,,,,,,,,,,TRUE,data/images/3_KAG029813.jpg,./data/scaled/3_KAG029813.jpg,"A 鹿児島大学総合研究博物館 The Kagoshima University Museum, KAG029813
+<学総合研究博物館 The Kagoshima University Museum
+20cm
+KAG 029813
+FAULT. AGRIC
+HERBARIUM
+20
+30
+90
+130
++
+QPCARD 201
+鹿児島大学農学部植物標本
+Milletia japonica A. Gray
+Sakamoto, Sueyoshi-cho, Pref. Kagoshima,
+alt. 250 m.
+July 7,1970
+S.Sako
+8107","{""scientificName"": ""Milletia japonica A. Gray"", ""catalogNumber"": ""KAG029813"", ""recordNumber"": ""8107"", ""recordedBy"": ""S.Sako"", ""year"": ""1970"", ""month"": ""7"", ""day"": ""7"", ""dateIdentified"": """", ""identifiedBy"": """", ""verbatimIdentification"": ""Milletia japonica A. Gray"", ""country"": ""JPN"", ""countryCode"": ""JPN"", ""decimalLatitude"": ""13.5132"", ""decimalLongitude"": ""130.2667"", ""location"": ""Sakamoto, Sueyoshi-cho, Pref. Kagoshima"", ""minimumElevationInMeters"": ""250"", ""maximumElevationInMeters"": ""250"", ""verbatimElevation"": ""alt. 250 m.""}","{""scientificName"": ""Milletia japonica A. Gray"", ""catalogNumber"": ""KAG029813"", ""recordNumber"": ""8107"", ""recordedBy"": ""S.Sako"", ""year"": ""1970"", ""month"": ""7"", ""day"": ""7"", ""location"": ""Sakamoto, Sueyoshi-cho, Pref. Kagoshima"", ""country"": ""Japan"", ""minimumElevationInMeters"": ""250"", ""maximumElevationInMeters"": ""250""}","{""scientificName"":""Milletia japonica"",""catalogNumber"":""KAG029813"",""recordedBy"":""S.Sako"",""year"":""1970"",""month"":7,""day"":7,""verbatimElevation"":""alt. 250 m."",""country"":""Japan"",""countryCode"":""JP"",""decimalLatitude"":""30"",""decimalLongitude"":""90"",""location"":""Sakamoto, Sueyoshi-cho, Pref. Kagoshima""}","{""scientificName"":""Milletia japonica A. Gray"",""catalogNumber"":""KAG029813"",""recordNumber"":""8107"",""recordedBy"":""S.Sako"",""year"":""1970"",""month"":7,""day"":7,""location"":""Sakamoto, Sueyoshi-cho, Pref. Kagoshima"",""minimumElevationInMeters"":""250"",""maximumElevationInMeters"":""250"",""verbatimElevation"":""alt. 250 m.""}"
+4,4054262728,,,en,CC_BY_4_0,2022-09-21T00:00:00Z,"National Museum of Nature and Science, Japan",https://www.museum.kagoshima-u.ac.jp/hyouhonsitu.html,,text,,,,KAG,KAG,,,PRESERVED_SPECIMEN,,,,15729526-0221-49ac-b76b-bd82dac0bde4,KAG021011,4892,,,,,,,,,,,,,,,,PRESENT,,,,,,,,,,,,,,,,,,,,,,,1965-12-19/1965-12-24,,353,358,1965,12,,,,,,,,,,,,Asia;Amami Islands;Amami-oshima Island;Japan;Kagoshima;Oshima-gun Yamato-son/Oshima-gun Uken-son,ASIA,,Amami Islands,Amami-oshima Island,JP,Kagoshima,Oshima-gun Yamato-son/Oshima-gun Uken-son,,,奄美大島湯湾岳頂上付近,,,,,,,,28.291667,129.3125,5000,,,,,,,,,,,,assumed from the label information,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9368033,,,,,,Smilax amamiana Z.S.Sun & P.Li,,,,,,,Plantae|Tracheophyta|Liliopsida|Liliales|Smilacaceae|Smilax|amamiana,Plantae,Tracheophyta,Liliopsida,Liliales,,Smilacaceae,,,,Smilax,Smilax,,,amamiana,,,SPECIES,,アマミヒメカカラ,,ACCEPTED,,,1cbed1d0-f9ac-4b9e-bf3f-a26272bca39e,JP,2024-02-16T04:26:52.970Z,650,,,,,INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY,StillImage,TRUE,FALSE,9368033,9368033,6,7707728,196,1172,7702,2740627,,9368033,Smilax amamiana,Smilax amamiana Z.S.Sun & P.Li,Smilax amamiana,,EML,2024-02-16T04:26:52.970Z,2024-02-16T04:25:24.047Z,FALSE,,,FALSE,ASIA,ASIA,JPN,Japan,JPN.18_1,Kagoshima,JPN.18.41_1,Uken,,,NE,WGS84,4054262728,StillImage,image/jpeg,https://dbs.kaum.kagoshima-u.ac.jp/musedb/s_plant/picture/KAG021011/KAG021011.jpg,,,,,,,,,,,,TRUE,data/images/4_KAG021011.jpg,./data/scaled/4_KAG021011.jpg,"KERA******The kagoshima University Museum KAG021011
+021011
+鹿児島大学総合研究博物館 The Kagoshima University Museum
+20cm
+Plants of Amami-ohshima. Ryukyus
+Smilax biflora Sieb.
+In the thicket at near the summit of Mt.
+Yuwandake, alt.650 m.
+Dec.19-24,1963 S.Sako 4892","{
+  ""scientificName"": ""Smilax glabra Thunb."",
+  ""catalogNumber"": ""KAG021012"",
+  ""recordNumber"": ""4893"",
+  ""recordedBy"": ""S.Sako"",
+  ""year"": ""1963"",
+  ""month"": ""12"",
+  ""day"": ""19"",
+  ""dateIdentified"": ""Dec.19,1963"",
+  ""identifiedBy"": ""S.Sako"",
+  ""verbatimIdentification"": ""Smilax glabra Thunb. (S.Sako)"",
+  ""country"": ""Kagoshima Prefecture"",
+  ""countryCode"": ""JP"",
+  ""decimalLatitude"": ""24.4"",
+  ""decimalLongitude"": ""128.3"",
+  ""location"": ""Mt. Yuwandake"",
+  ""minimumElevationInMeters"": ""650"",
+  ""maximumElevationInMeters"": ""650"",
+  ""verbatimElevation"": ""In the thicket at near the summit of Mt. Yuwandake""
+}","{""scientificName"": ""Smilax biflora Sieb."", ""catalogNumber"": ""KAG021011"", ""recordNumber"": ""021011"", ""recordedBy"": ""S.Sako"", ""year"": ""1963"", ""month"": 12, ""day"": 19, ""location"": ""Mt. Yuwandake"", ""minimumElevationInMeters"": 650, ""maximumElevationInMeters"": 650, ""verbatimElevation"": ""alt.650 m.""}","{""scientificName"":""Smilax biflora"",""catalogNumber"":""KAG021011"",""recordNumber"":""021011"",""recordedBy"":""S. Sako"",""year"":1963,""month"":12,""day"":19,""location"":""Mt. Yuwandake"",""verbatimElevation"":""alt.650 m""}","{""scientificName"":""Smilax biflora Sieb."",""catalogNumber"":""KAG021011"",""recordNumber"":""4892"",""recordedBy"":""S.Sako"",""year"":""1963"",""month"":""12"",""day"":""19"",""location"":""Mt. Yuwandake"",""minimumElevationInMeters"":""650"",""maximumElevationInMeters"":""650"",""verbatimElevation"":""alt.650 m""}"
+7,4522301479,,,en,CC_BY_4_0,2023-11-13T00:00:00Z,"National Museum of Nature and Science, Japan",https://www.museum.kagoshima-u.ac.jp/hyouhonsitu.html,,text,,,,KAG,KAG,,,PRESERVED_SPECIMEN,,,,f925e7d9-cfba-400b-a4fc-df69339b256f,KAG028746,,,,,,,,,,,,,,,,,PRESENT,,,,,,,,,,,,,,,,,,,,,,,20/07/1932,,202,202,1932,7,20,,,,,,,,,,,Asia;Osumi Islands;Yakushima Island;Japan;Kagoshima;Kumage-gun Yakushima-cho,ASIA,,Osumi Islands,Yakushima Island,JP,Kagoshima,Kumage-gun Yakushima-cho,,,熊毛郡屋久島町,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5360270,,,,,,Maackia tashiroi Makino,,,,,,,Plantae|Tracheophyta|Magnoliopsida|Fabales|Fabaceae|Maackia|tashiroi,Plantae,Tracheophyta,Magnoliopsida,Fabales,,Fabaceae,,,,Maackia,Maackia,,,tashiroi,,,SPECIES,,シマエンジュ,,ACCEPTED,,,1cbed1d0-f9ac-4b9e-bf3f-a26272bca39e,JP,2024-02-16T04:26:52.468Z,,,,,,INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY,StillImage,FALSE,FALSE,5360270,5360270,6,7707728,220,1370,5386,2977725,,5360270,Maackia tashiroi,Maackia tashiroi Makino,Maackia tashiroi,,EML,2024-02-16T04:26:52.468Z,2024-02-16T04:25:24.047Z,FALSE,,,FALSE,ASIA,ASIA,,,,,,,,,NE,WGS84,4522301479,StillImage,image/jpeg,https://dbs.kaum.kagoshima-u.ac.jp/musedb/s_plant/picture/KAG028746/KAG028746.jpg,,,,,,,,,,,,TRUE,data/images/7_KAG028746.jpg,./data/scaled/7_KAG028746.jpg,"A 鹿児島大学総合研究博物館 The Kagoshima University Museum, KAG028746
+鹿兒島高等農林學校植物學標本
+Maschio Tashiroi mak
+採集地
+採集日
+採集者
+屋久島.
+20. VII, 1132
+内藤
+KAG 028746
+鹿児島大学総合研究博物館、 The Kagoshima Unive
+20cm","{""scientificName"": ""Maschio Tashiroi mak"", ""catalogNumber"": ""KAG028746"", ""recordNumber"": """", ""recordedBy"": ""内藤"", ""year"": ""1132"", ""month"": ""7"", ""day"": """", ""dateIdentified"": """", ""identifiedBy"": """", ""verbatimIdentification"": """", ""country"": """", ""countryCode"": """", ""decimalLatitude"": """", ""decimalLongitude"": """", ""location"": """", ""minimumElevationInMeters"": ""1400"", ""maximumElevationInMeters"": ""1400"", ""verbatimElevation"": ""20cm""}","{""scientificName"": ""Maschio Tashiroi mak"", ""catalogNumber"": ""KAG028746"", ""recordedBy"": ""内藤"", ""year"": ""1132"", ""month"": ""7"", ""day"": ""20"", ""location"": ""屋久島""}","{""scientificName"":""Maschio Tashiroi mak"",""catalogNumber"":""KAG028746"",""recordedBy"":""内藤"",""year"":1132,""month"":7,""day"":20,""location"":""屋久島"",""verbatimElevation"":""20cm""}","{""scientificName"":""Maschio Tashiroi mak"",""catalogNumber"":""KAG028746"",""recordedBy"":""内藤"",""year"":""1132"",""month"":""7"",""day"":""20"",""country"":""Japan"",""location"":""屋久島""}"
+8,3408898188,,,en,CC_BY_4_0,2022-02-04T00:00:00Z,"National Museum of Nature and Science, Japan",https://www.museum.kagoshima-u.ac.jp/hyouhonsitu.html,,text,,,,KAG,KAG,,,PRESERVED_SPECIMEN,,,,811a82a3-9415-4826-8f6c-6e6961716813,KAG004436,42329,,,,,,,,,,,,,,,,PRESENT,,,,,,,,,,,,,,,,,,,,,,,13/06/1987,,164,164,1987,6,13,,,,,,,,,,,Asia;Osumi Islands;Yakushima Island;Japan;Kagoshima;Yakushima-cho;Mt. Kuromi,ASIA,,Osumi Islands,Yakushima Island,JP,Kagoshima,Yakushima-cho,,Mt. Kuromi,,,,,,,,,,,500,,,,,,,,,,,,assumed from the label information,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2867304,,,,,,Arisaema maximowiczii subsp. tashiroi (Kitam.) Seriz.,,,,,,,Plantae|Tracheophyta|Liliopsida|Alismatales|Araceae|Arisaema|maximowiczii|tashiroi,Plantae,Tracheophyta,Liliopsida,Alismatales,,Araceae,,,,Arisaema,Arisaema,,,maximowiczii,tashiroi,,SUBSPECIES,,ツクシヒトツバテンナンショウ,,SYNONYM,,,1cbed1d0-f9ac-4b9e-bf3f-a26272bca39e,JP,2024-02-16T04:26:49.355Z,,,,,,INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY,StillImage,FALSE,FALSE,2867303,2867304,6,7707728,196,551,6979,2866809,,2867304,Arisaema tashiroi,Arisaema tashiroi Kitam.,Arisaema maximowiczii tashiroi,,EML,2024-02-16T04:26:49.355Z,2024-02-16T04:25:24.047Z,FALSE,,,FALSE,ASIA,ASIA,,,,,,,,,,WGS84,3408898188,StillImage,image/jpeg,https://dbs.kaum.kagoshima-u.ac.jp/musedb/s_plant/picture/KAG004436/KAG004436.jpg,,,,,,,,,,,,TRUE,data/images/8_KAG004436.jpg,./data/scaled/8_KAG004436.jpg,"K
+The Kagoshima University Museum KAG004436
+鹿児島大学総合研究博物館 The Kagoshima University Museum, Japan
+20cm
+004436
+Herb.
+Agric. Kagoshima Univ.
+Arisaema shirod Kitam.
+2
+var?
+12 off are alt. 1600 ms,
+alt. 1700m TI.
+June 13, 1987
+Hatusima 42329","{
+  ""scientificName"": ""Arisaema serratum (Thunb.) Schott"",
+  ""catalogNumber"": ""KAG004437"",
+  ""recordNumber"": ""004437"",
+  ""recordedBy"": ""Agric. Kagoshima Univ."",
+  ""year"": ""1987"",
+  ""month"": ""6"",
+  ""day"": ""13"",
+  ""dateIdentified"": ""Jun. 13, 1987"",
+  ""identifiedBy"": ""Katsuhiko Hatusima"",
+  ""verbatimIdentification"": ""Arisaema serratum (Thunb.) Schott"",
+  ""country"": ""Japan"",
+  ""countryCode"": ""JP"",
+  ""decimalLatitude"": ""24.5200"",
+  ""decimalLongitude"": ""129.8677"",
+  ""location"": ""Kyushu, Japan"",
+  ""minimumElevationInMeters"": ""1600"",
+  ""maximumElevationInMeters"": ""1700"",
+  ""verbatimElevation"": ""1600m""
+}","{""scientificName"": ""Arisaema shirod Kitam."", ""catalogNumber"": ""KAG004436"", ""recordNumber"": ""42329"", ""recordedBy"": ""Hatusima"", ""year"": ""1987"", ""month"": ""6"", ""day"": ""13"", ""country"": ""Japan"", ""minimumElevationInMeters"": ""1600"", ""maximumElevationInMeters"": ""1700""}","{""scientificName"":""Arisaema shirod Kitam."",""catalogNumber"":""KAG004436"",""recordNumber"":""42329"",""year"":""1987"",""month"":6,""day"":13,""location"":""Hatusima"",""verbatimElevation"":""alt. 1600 ms, alt. 1700m TI."",""country"":""Japan"",""countryCode"":""JP""}","{""scientificName"":""Arisaema shirod Kitam."",""catalogNumber"":""KAG004436"",""recordNumber"":""42329"",""recordedBy"":""Hatusima"",""year"":""1987"",""month"":""6"",""day"":""13"",""country"":""Japan"",""minimumElevationInMeters"":""1600"",""maximumElevationInMeters"":""1700"",""verbatimElevation"":""alt. 1600 ms, alt. 1700m""}"
+9,4522298318,,,en,CC_BY_4_0,2023-11-13T00:00:00Z,"National Museum of Nature and Science, Japan",https://www.museum.kagoshima-u.ac.jp/hyouhonsitu.html,,text,,,,KAG,KAG,,,PRESERVED_SPECIMEN,,,,1083362c-bc91-4cbf-8d3d-d0c1cdaf53d2,KAG024969,,,,,,,,,,,,,,,,,PRESENT,,,,,,,,,,,,,,,,,,,,,,,04/04/2015,,94,94,2015,4,4,,,,,,,,,,,Asia;Osumi Islands;Yakushima Island;Japan;Kagoshima;Kumage-gun Yakushima-cho;Anbou Haruta beach,ASIA,,Osumi Islands,Yakushima Island,JP,Kagoshima,Kumage-gun Yakushima-cho,,Anbou Haruta beach,熊毛郡屋久島町安房春田浜,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3088595,,,,,,Hemistepta lyrata (Bunge) Bunge,,,,,,,Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Saussurea|lyrata,Plantae,Tracheophyta,Magnoliopsida,Asterales,,Asteraceae,,,,Saussurea,Hemistepta,,,lyrata,,,SPECIES,,キツネアザミ,,ACCEPTED,,,1cbed1d0-f9ac-4b9e-bf3f-a26272bca39e,JP,2024-02-16T04:26:55.483Z,,,,,,INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY,StillImage,FALSE,FALSE,3088595,3088595,6,7707728,220,414,3065,2752681,,3088595,Hemistepta lyrata,Hemistepta lyrata (Bunge) Bunge,Hemistepta lyrata,,EML,2024-02-16T04:26:55.483Z,2024-02-16T04:25:24.047Z,FALSE,,,FALSE,ASIA,ASIA,,,,,,,,,NE,WGS84,4522298318,StillImage,image/jpeg,https://dbs.kaum.kagoshima-u.ac.jp/musedb/s_plant/picture/KAG024969/KAG024969.jpg,,,,,,,,,,,,TRUE,data/images/9_KAG024969.jpg,./data/scaled/9_KAG024969.jpg,"X 鹿児島大学総合研究博物館 The Kagoshima University Museum, KAG024969
+X-rite
+colorchecker CLASSIC
++
+ך
+Inutabantur.bontodom
+mm
+鹿児島大学総合研究博物館 The Kagoshima University Museum
+20cm
+KAG 024969
+鹿児島大学総合研究博物館 標本
+The Kagoshima University Museum
+採集者:川原大基
+No:
+ColDate: 2015/4/4
+Col: Kawahara Daiki
+鹿児島県屋久島安房 春田浜
+Locality: Kagoshima, Yakusima Island, Anbo,
+Harutahama Beach
+GPS:
+Mesh Code: 45303552
+Asteraceae キク科
+Alt.
+APG: Asteraceae
+危惧種分
+Hemistepta lyrata
+和名: キツネアザミ
+入力日: 2020/09/02
+Bunge
+別
+名
+Det 川原大基
+KAG024969
+Box: 0167","{
+  ""scientificName"": ""Hemistepta lyrata"",
+  ""catalogNumber"": ""KAG024969"",
+  ""recordNumber"": """",
+  ""recordedBy"": ""Kawahara Daiki"",
+  ""year"": ""2015"",
+  ""month"": ""4"",
+  ""day"": """",
+  ""dateIdentified"": ""2020/09/02"",
+  ""identifiedBy"": ""Kawahara Daiki"",
+  ""verbatimIdentification"": ""Hemistepta lyrata"",
+  ""country"": ""Japan"",
+  ""countryCode"": """",
+  ""decimalLatitude"": """",
+  ""decimalLongitude"": """",
+  ""location"": ""Kagoshima, Yakusima Island, Anbo, Harutahama Beach"",
+  ""minimumElevationInMeters"": """",
+  ""maximumElevationInMeters"": """",
+  ""verbatimElevation"": ""10m""
+}","{""scientificName"": ""Hemistepta lyrata"", ""catalogNumber"": ""KAG024969"", ""recordedBy"": ""Kawahara Daiki"", ""year"": ""2015"", ""month"": ""4"", ""day"": ""4"", ""location"": ""Kagoshima, Yakusima Island, Anbo, Harutahama Beach"", ""identifiedBy"": ""Kawahara Daiki""}","{""scientificName"":""Hemistepta lyrata"",""catalogNumber"":""KAG024969"",""recordedBy"":""川原大基"",""year"":2015,""month"":4,""day"":4,""dateIdentified"":""2020/09/02"",""identifiedBy"":""川原大基"",""verbatimIdentification"":""Hemistepta lyrata"",""country"":""Japan"",""countryCode"":""JP"",""location"":""Kagoshima, Yakusima Island, Anbo, Harutahama Beach""}","{""catalogNumber"":""KAG024969"",""recordedBy"":""Kawahara Daiki"",""year"":2015,""month"":4,""day"":4,""dateIdentified"":""2020/09/02"",""identifiedBy"":""Kawahara Daiki"",""scientificName"":""Hemistepta lyrata"",""verbatimIdentification"":""Hemistepta lyrata"",""country"":""Japan"",""countryCode"":""JP"",""location"":""Kagoshima, Yakusima Island, Anbo, Harutahama Beach""}"
+10,4054305314,,,en,CC_BY_4_0,2022-09-21T00:00:00Z,"National Museum of Nature and Science, Japan",https://www.museum.kagoshima-u.ac.jp/hyouhonsitu.html,,text,,,,KAG,KAG,,,PRESERVED_SPECIMEN,,,,467d8829-3160-4aee-bcb2-5ab1b87fd539,KAG012484,,,,,,,,,,,,,,,,,PRESENT,,,,,,,,,,,,,,,,,,,,,,,1975-01-01/1975-12-31,,1,365,1975,,,,,,,,,,,,,Asia;Tokara Islands;Suwanose Island;Japan;Kagoshima;Kagoshima-gun Toshimamura,ASIA,,Tokara Islands,Suwanose Island,JP,Kagoshima,Kagoshima-gun Toshimamura,,,トカラ列島諏訪之瀬島,,,,,,,,29.625,129.6875,5000,,,,,,,,,,,,assumed from the label information,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3080562,,,,,,Glochidion zeylanicum (Gaertn.) A.Juss.,,,,,,,Plantae|Tracheophyta|Magnoliopsida|Malpighiales|Phyllanthaceae|Glochidion|zeylanicum,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,,Phyllanthaceae,,,,Glochidion,Glochidion,,,zeylanicum,,,SPECIES,,カキバカンコノキ,,ACCEPTED,,,1cbed1d0-f9ac-4b9e-bf3f-a26272bca39e,JP,2024-02-16T04:26:50.411Z,,,,,,INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY,StillImage,TRUE,FALSE,3080562,3080562,6,7707728,220,1414,8807,3080069,,3080562,Glochidion zeylanicum,Glochidion zeylanicum (Gaertn.) A.Juss.,Glochidion zeylanicum,,EML,2024-02-16T04:26:50.411Z,2024-02-16T04:25:24.047Z,FALSE,,,FALSE,ASIA,ASIA,,,,,,,,,LC,WGS84,4054305314,StillImage,image/jpeg,https://dbs.kaum.kagoshima-u.ac.jp/musedb/s_plant/picture/KAG012484/KAG012484.jpg,,,,,,,,,,,,TRUE,data/images/10_KAG012484.jpg,./data/scaled/10_KAG012484.jpg,"K
+The kagoshima University Museum KAG012484
+鹿児島大学総合研究博物館 The Kagoshina Universuy Museum, japan
+20cm
+012484
+Herb. Facult. Agric. Kagoshima Univ.
+Glochidion zeylanica A. Juss.
+Isl. Suwanosezima, Tokara Islands, Ryukyus
+1975
+Kirino","{
+  ""scientificName"": ""Glochidion zeylanica A. Juss."",
+  ""catalogNumber"": ""KAG012486"",
+  ""recordNumber"": ""012486"",
+  ""recordedBy"": ""Herb. Facult. Agric. Kagoshima Univ."",
+  ""year"": ""1975"",
+  ""month"": """",
+  ""day"": """",
+  ""dateIdentified"": """",
+  ""identifiedBy"": """",
+  ""verbatimIdentification"": ""Glochidion zeylanica A. Juss."",
+  ""country"": ""Japan"",
+  ""countryCode"": ""JP"",
+  ""decimalLatitude"": ""33.5167"",
+  ""decimalLongitude"": ""129.2333"",
+  ""location"": ""Suwanose Island, Tokara Islands"",
+  ""minimumElevationInMeters"": """",
+  ""maximumElevationInMeters"": """",
+  ""verbatimElevation"": ""25cm""
+}","{""scientificName"": ""Glochidion zeylanica A. Juss."", ""catalogNumber"": ""KAG012484"", ""recordedBy"": ""Kirino"", ""year"": ""1975"", ""country"": ""japan"", ""location"": ""Isl. Suwanosezima, Tokara Islands, Ryukyus""}","{""scientificName"":""Glochidion zeylanica"",""catalogNumber"":""KAG012484"",""recordedBy"":""Kirino"",""year"":1975,""location"":""Isl. Suwanosezima, Tokara Islands, Ryukyus""}","{""scientificName"":""Glochidion zeylanica A. Juss."",""catalogNumber"":""KAG012484"",""recordNumber"":""012484"",""recordedBy"":""Kirino"",""year"":""1975"",""location"":""Isl. Suwanosezima, Tokara Islands, Ryukyus"",""country"":""Japan""}"
+13,4522300682,,,en,CC_BY_4_0,2023-11-13T00:00:00Z,"National Museum of Nature and Science, Japan",https://www.museum.kagoshima-u.ac.jp/hyouhonsitu.html,,text,,,,KAG,KAG,,,PRESERVED_SPECIMEN,,,,7b3a095a-d82c-442a-8e29-54af623ca04a,KAG025568,TSM.No.751,,,,,,,,,,,,,,,,PRESENT,,,,,,,,,,,,,,,,,,,,,,,1953-10-01/1953-10-31,,274,304,1953,10,,,,,,,,,,,,Asia;Honshu;Japan;Shiga,ASIA,,,Honshu,JP,Shiga,,,,賀茂郡うち池,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4082435,,,,,,Thelypteris esquirolii (C.Chr.) Ching,,,,,,,Plantae|Tracheophyta|Polypodiopsida|Polypodiales|Thelypteridaceae|Pseudocyclosorus|esquirolii,Plantae,Tracheophyta,Polypodiopsida,Polypodiales,,Thelypteridaceae,,,,Pseudocyclosorus,Thelypteris,,,esquirolii,,,SPECIES,,イブキシダ,,SYNONYM,,,1cbed1d0-f9ac-4b9e-bf3f-a26272bca39e,JP,2024-02-16T04:26:52.276Z,,,,,,INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY,StillImage,FALSE,FALSE,5666821,4082435,6,7707728,7228684,392,6618,7617835,,4082435,Pseudocyclosorus esquirolii,Pseudocyclosorus esquirolii (C.Chr.) Ching,Thelypteris esquirolii,,EML,2024-02-16T04:26:52.276Z,2024-02-16T04:25:24.047Z,FALSE,,,FALSE,ASIA,ASIA,,,,,,,,,NE,WGS84,4522300682,StillImage,image/jpeg,https://dbs.kaum.kagoshima-u.ac.jp/musedb/s_plant/picture/KAG025568/KAG025568.jpg,,,,,,,,,,,,TRUE,data/images/13_KAG025568.jpg,./data/scaled/13_KAG025568.jpg,"KERA*****The kagoshima University Museum KAG025568
+025568
+鹿児島大学総合研究博物館 The Kagoshima University Museum)
+20cm
+Lastrea subochotodes Tagawa
+Det. by S. Hatusima 1957
+FLORA OF JAPAN
+distributed from
+the NATIONAL SCIENCE MUSEUM, Tokyo.
+ISM. No. 751
+Thelypteris falciloba Ching
+Hondo Uchi-ike in Kamogun
+prov. On
+Coll. Ch. Hashimoto, Oct. 1953","{
+  ""scientificName"": ""string"",
+  ""catalogNumber"": ""string"",
+  ""recordNumber"": ""string"",
+  ""recordedBy"": ""string"",
+  ""year"": ""string"",
+  ""month"": ""string"",
+  ""day"": ""string"",
+  ""dateIdentified"": ""string"",
+  ""identifiedBy"": ""string"",
+  ""verbatimIdentification"": ""string"",
+  ""country"": ""string"",
+  ""countryCode"": ""string"",
+  ""decimalLatitude"": ""string"",
+  ""decimalLongitude"": ""string"",
+  ""location"": ""string"",
+  ""minimumElevationInMeters"": ""string"",
+  ""maximumElevationInMeters"": ""string"",
+  ""verbatimElevation"": ""string""
+}","{""scientificName"": ""Lastrea subochotodes Tagawa|Thelypteris falciloba Ching"", ""catalogNumber"": ""KAG025568"", ""recordedBy"": ""Ch. Hashimoto"", ""year"": ""1953"", ""month"": ""10"", ""dateIdentified"": ""1957"", ""identifiedBy"": ""S. Hatusima"", ""verbatimIdentification"": ""FLORA OF JAPAN"", ""location"": ""Hondo Uchi-ike in Kamogun""}","{""scientificName"":""Lastrea subochotodes"",""catalogNumber"":""KAG025568"",""recordNumber"":""025568"",""recordedBy"":""Ch. Hashimoto"",""year"":""1953"",""month"":10,""dateIdentified"":""1957"",""identifiedBy"":""S. Hatusima"",""verbatimIdentification"":""Lastrea subochotodes Tagawa"",""location"":""Hondo Uchi-ike, Kamogun, Kagoshima"",""country"":""Japan"",""countryCode"":""JP""}","{""scientificName"":""Lastrea subochotodes|Thelypteris falciloba"",""catalogNumber"":""KAG025568"",""identifiedBy"":""S. Hatusima"",""dateIdentified"":""1957"",""verbatimIdentification"":""Lastrea subochotodes Tagawa|Thelypteris falciloba Ching"",""recordedBy"":""Ch. Hashimoto"",""year"":""1953"",""month"":""10"",""location"":""Hondo Uchi-ike in Kamogun, prov. On"",""country"":""Japan""}"
+14,4054312181,,,en,CC_BY_4_0,2022-09-21T00:00:00Z,"National Museum of Nature and Science, Japan",https://www.museum.kagoshima-u.ac.jp/hyouhonsitu.html,,text,,,,KAG,KAG,,,PRESERVED_SPECIMEN,,,,002373dc-ad82-415f-aa6f-edd807a32842,KAG015823,9808;12774;15586,,,,,,,,,,,,,,,,PRESENT,,,,,,,,,,,,,,,,,,,,,,,1915-12-01/1915-12-31,,335,365,1915,12,,,,,,,,,,,,Asia;Philippines,ASIA,,,,PH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5555543,,,,,,Calophyllum racemosum Merr.,,,,,,,Plantae|Tracheophyta|Magnoliopsida|Malpighiales|Calophyllaceae|Calophyllum|racemosum,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,,Calophyllaceae,,,,Calophyllum,Calophyllum,,,racemosum,,,SPECIES,,,,SYNONYM,,,1cbed1d0-f9ac-4b9e-bf3f-a26272bca39e,JP,2024-02-16T04:26:52.584Z,,,,,,INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY,StillImage,FALSE,FALSE,7985049,5555543,6,7707728,220,1414,4907584,3189443,,5555543,Calophyllum blancoi,Calophyllum blancoi Planch. & Triana,Calophyllum racemosum,,EML,2024-02-16T04:26:52.584Z,2024-02-16T04:25:24.047Z,TRUE,,,FALSE,ASIA,ASIA,,,,,,,,,NE,WGS84,4054312181,StillImage,image/jpeg,https://dbs.kaum.kagoshima-u.ac.jp/musedb/s_plant/picture/KAG015823/KAG015823.jpg,,,,,,,,,,,,TRUE,data/images/14_KAG015823.jpg,./data/scaled/14_KAG015823.jpg,"X 鹿児島大学総合研究博物館 The kagoshima University Museum KAG015823
+Why The Kagoshima University Museum 鹿児島大学総合研究
+015823
+喙高島兒
+9808
+12774
+本標
+Guttiferae
+15586
+PHILIPPINE ISLANDS PLANTS
+DISTRIBUTED BY A. D. E. ELMER
+Calophyllum racemosum Me
+IROSIN MAN (MT, BULUSAN), PROVINCE OF SORSOGON
+ISLAND OF LUZON, DECEMBER, 1915","{
+  ""scientificName"": ""Calophyllum racemosum"",
+  ""catalogNumber"": ""KAG015823"",
+  ""recordNumber"": ""KAG015823"",
+  ""recordedBy"": ""A. D. E. Elmert, M. R. Clemens"",
+  ""year"": ""1915"",
+  ""month"": ""12"",
+  ""dateIdentified"": ""1925"",
+  ""identifiedBy"": ""M. R. Clemens"",
+  ""verbatimIdentification"": ""Calophyllum racemosum Me"",
+  ""country"": ""PHILIPPINE ISLANDS"",
+  ""countryCode"": ""JP"",
+  ""decimalLatitude"": ""24.5"",
+  ""decimalLongitude"": ""128.0"",
+  ""location"": ""ISLAND OF LUZON, MOUNT KAGOSHIMA"",
+  ""minimumElevationInMeters"": ""0"",
+  ""maximumElevationInMeters"": ""0"",
+  ""verbatimElevation"": ""0""
+}","{""scientificName"": ""Calophyllum racemosum"", ""catalogNumber"": ""KAG015823"", ""recordedBy"": ""A. D. E. ELMER"", ""year"": ""1915"", ""month"": ""12"", ""country"": ""PHILIPPINE ISLANDS"", ""decimalLatitude"": ""12.774"", ""decimalLongitude"": ""127.408"", ""location"": ""IROSIN MAN (MT, BULUSAN), PROVINCE OF SORSOGON, ISLAND OF LUZON""}","{""scientificName"":""Calophyllum racemosum"",""catalogNumber"":""KAG015823"",""recordNumber"":""015823"",""recordedBy"":""A. D. E. Elmer"",""year"":""1915"",""month"":12,""location"":""IROSIN MAN (MT, BULUSAN), PROVINCE OF SORSOGON, ISLAND OF LUZON"",""country"":""Philippines"",""countryCode"":""PH""}","{""scientificName"":""Calophyllum racemosum"",""catalogNumber"":""KAG015823"",""recordNumber"":""15586"",""country"":""PHILIPPINE ISLANDS"",""location"":""IROSIN MAN (MT, BULUSAN), PROVINCE OF SORSOGON, ISLAND OF LUZON"",""year"":""1915"",""month"":12}"
+17,3408893422,,,en,CC_BY_4_0,2022-02-04T00:00:00Z,"National Museum of Nature and Science, Japan",https://www.museum.kagoshima-u.ac.jp/hyouhonsitu.html,,text,,,,KAG,KAG,,,PRESERVED_SPECIMEN,,,,5a0e12d3-1cf8-49b2-8d7f-80767c83ef2f,KAG010468,3196,,,,,,,,,,,,,,,,PRESENT,,,,,,,,,,,,,,,,,,,,,,,16/01/1967,,16,16,1967,1,16,,,,,,,,,,,Asia;Amami Islands;Amami-oshima Island;Japan;Kagoshima;Oshima-gun Ukenson,ASIA,,Amami Islands,Amami-oshima Island,JP,Kagoshima,Oshima-gun Ukenson,,,,,,,,,,,,,5000,,,,,,,,,,,,assumed from the label information,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7339073,,,,,,Sarcandra glabra (Thunb.) Nakai,,,,,,,Plantae|Tracheophyta|Magnoliopsida|Chloranthales|Chloranthaceae|Sarcandra|glabra,Plantae,Tracheophyta,Magnoliopsida,Chloranthales,,Chloranthaceae,,,,Sarcandra,Sarcandra,,,glabra,,,SPECIES,,センリョウ,,ACCEPTED,,,1cbed1d0-f9ac-4b9e-bf3f-a26272bca39e,JP,2024-02-16T04:26:52.940Z,,,,,,INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY,StillImage,FALSE,FALSE,7339073,7339073,6,7707728,220,7226589,6679,7339063,,7339073,Sarcandra glabra,Sarcandra glabra (Thunb.) Nakai,Sarcandra glabra,,EML,2024-02-16T04:26:52.940Z,2024-02-16T04:25:24.047Z,FALSE,,,FALSE,ASIA,ASIA,,,,,,,,,NE,WGS84,3408893422,StillImage,image/jpeg,https://dbs.kaum.kagoshima-u.ac.jp/musedb/s_plant/picture/KAG010468/KAG010468.jpg,,,,,,,,,,,,TRUE,data/images/17_KAG010468.jpg,./data/scaled/17_KAG010468.jpg,"The Kagoshima University Museum, KAG010468
+児島大学総合研究博物館 The Kagoshima University Museum, japan
+20cm
+010468
+nts of Amami-ohshima. Ryukyus
+Sarcandra glabra Nakai
+Uken-mura, alt.lo m.
+Jan. 16. 1957 H. Noguchi 3196","{
+  ""scientificName"": ""Sarcandra glabra Nakai"",
+  ""catalogNumber"": ""KAG010470"",
+  ""recordNumber"": ""3198"",
+  ""recordedBy"": ""H. Noguchi"",
+  ""year"": ""1957"",
+  ""month"": ""1"",
+  ""day"": ""16"",
+  ""dateIdentified"": ""1957-01-16"",
+  ""identifiedBy"": ""H. Noguchi"",
+  ""verbatimIdentification"": ""Sarcandra glabra Nakai"",
+  ""country"": ""Japan"",
+  ""countryCode"": ""JP"",
+  ""decimalLatitude"": ""26.8"",
+  ""decimalLongitude"": ""128.2"",
+  ""location"": ""Uken Village"",
+  ""minimumElevationInMeters"": ""100"",
+  ""maximumElevationInMeters"": ""200"",
+  ""verbatimElevation"": ""alt. lo m.""
+}","{""scientificName"": ""Sarcandra glabra Nakai"", ""catalogNumber"": ""KAG010468"", ""recordNumber"": ""3196"", ""recordedBy"": ""H. Noguchi"", ""year"": ""1957"", ""month"": ""1"", ""day"": ""16"", ""country"": ""Japan"", ""location"": ""Uken-mura"", ""verbatimElevation"": ""alt.lo m.""}","{""scientificName"":""Sarcandra glabra"",""catalogNumber"":""KAG010468"",""recordedBy"":""H. Noguchi"",""year"":1957,""month"":1,""day"":16,""location"":""Uken-mura, Amami-ohshima, Ryukyus"",""verbatimElevation"":""alt. lo m.""}","{""scientificName"":""Sarcandra glabra Nakai"",""catalogNumber"":""KAG010468"",""recordNumber"":""3196"",""recordedBy"":""H. Noguchi"",""year"":""1957"",""month"":""1"",""day"":""16"",""country"":""Japan"",""location"":""Uken-mura, Amami-ohshima, Ryukyus"",""minimumElevationInMeters"":""10""}"
+18,3408896920,,,en,CC_BY_4_0,2022-02-04T00:00:00Z,"National Museum of Nature and Science, Japan",https://www.museum.kagoshima-u.ac.jp/hyouhonsitu.html,,text,,,,KAG,KAG,,,PRESERVED_SPECIMEN,,,,7d720f5e-cfe2-42f5-955e-24bc3928c135,KAG000905,1755; 4751,,,,,,,,,,,,,,,,PRESENT,,,,,,,,,,,,,,,,,,,,,,,31/08/1912,,244,244,1912,8,31,,,,,,,,,,,Asia;Japan;Nagasaki;Mt. Onsen,ASIA,,,,JP,Nagasaki,,,Mt. Onsen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3768257,,,,,,Acer micranthum Siebold & Zucc.,,,,,,,Plantae|Tracheophyta|Magnoliopsida|Sapindales|Aceraceae|Acer|micranthum,Plantae,Tracheophyta,Magnoliopsida,Sapindales,,Sapindaceae,,,,Acer,Acer,,,micranthum,,,SPECIES,,コミネカエデ,,ACCEPTED,,,1cbed1d0-f9ac-4b9e-bf3f-a26272bca39e,JP,2024-02-16T04:26:51.748Z,,,,,,INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY,StillImage,FALSE,FALSE,3768257,3768257,6,7707728,220,933,6657,3189834,,3768257,Acer micranthum,Acer micranthum Siebold & Zucc.,Acer micranthum,,EML,2024-02-16T04:26:51.748Z,2024-02-16T04:25:24.047Z,FALSE,,,FALSE,ASIA,ASIA,,,,,,,,,LC,WGS84,3408896920,StillImage,image/jpeg,https://dbs.kaum.kagoshima-u.ac.jp/musedb/s_plant/picture/KAG000905/KAG000905.jpg,,,,,,,,,,,,TRUE,data/images/18_KAG000905.jpg,./data/scaled/18_KAG000905.jpg,"The Kagoshima University Museum 鹿児島大学総合研究博物館
+The Kagoshima Univers
+G000905
+No/鹿兒島高等農林學校標本 4750
+Acer micranthum, S. Z..
+コミネカヘディコバナカヘデ
+產地
+(Aceraceae)
+長崎縣温泉岳
+1912年4月6日
+*****
+905
+000905","{
+  ""scientificName"": ""Acer micranthum"",
+  ""catalogNumber"": ""G000905"",
+  ""recordNumber"": ""No/鹿兒島高等農林學校標本 4750"",
+  ""recordedBy"": ""K. Koidzumi"",
+  ""year"": ""1912"",
+  ""month"": ""4"",
+  ""day"": ""6"",
+  ""dateIdentified"": ""1912-04-06"",
+  ""identifiedBy"": ""K. Koidzumi"",
+  ""verbatimIdentification"": ""Acer micranthum S. Z."",
+  ""country"": ""Nagasaki Prefecture"",
+  ""countryCode"": ""JP"",
+  ""decimalLatitude"": ""34.783333"",
+  ""decimalLongitude"": ""129.233333"",
+  ""location"": ""Onsen-dake"",
+  ""minimumElevationInMeters"": ""0"",
+  ""maximumElevationInMeters"": ""0"",
+  ""verbatimElevation"": ""0""
+}","{""scientificName"": ""Acer micranthum"", ""catalogNumber"": ""G000905"", ""recordNumber"": ""4750"", ""year"": ""1912"", ""month"": ""4"", ""day"": ""6"", ""country"": ""Japan"", ""location"": ""長崎縣温泉岳""}","{""scientificName"":""Acer micranthum"",""catalogNumber"":""G000905"",""recordNumber"":""4750"",""year"":""1912"",""month"":4,""day"":6,""location"":""長崎縣温泉岳""}","{""scientificName"":""Acer micranthum"",""catalogNumber"":""G000905"",""recordNumber"":""4750"",""location"":""長崎縣温泉岳"",""year"":""1912"",""month"":4,""day"":6}"
+19,4522301745,,,en,CC_BY_4_0,2023-11-13T00:00:00Z,"National Museum of Nature and Science, Japan",https://www.museum.kagoshima-u.ac.jp/hyouhonsitu.html,,text,,,,KAG,KAG,,,PRESERVED_SPECIMEN,,,,58277257-207e-4dc6-bebe-aa44859587e6,KAG024647,,,,,,,,,,,,,,,,,PRESENT,,,,,,,,,,,,,,,,,,,,,,,19/04/1953,,109,109,1953,4,19,,,,,,,,,,,Asia;Honshu;Japan;Hyogo;Takarazuka-shi to Itami-shi;Yamamoto,ASIA,,,Honshu,JP,Hyogo,Takarazuka-shi to Itami-shi,,Yamamoto,宝塚市-伊丹市山本,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3033965,,,,,,Akebia quinata (Houtt.) Decne.,,,,,,,Plantae|Tracheophyta|Magnoliopsida|Ranunculales|Lardizabalaceae|Akebia|quinata,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,,Lardizabalaceae,,,,Akebia,Akebia,,,quinata,,,SPECIES,,アケビ,,ACCEPTED,,,1cbed1d0-f9ac-4b9e-bf3f-a26272bca39e,JP,2024-02-16T04:26:56.236Z,,,,,,INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY,StillImage,FALSE,FALSE,3033965,3033965,6,7707728,220,399,2412,8216970,,3033965,Akebia quinata,Akebia quinata (Houtt.) Decne.,Akebia quinata,,EML,2024-02-16T04:26:56.236Z,2024-02-16T04:25:24.047Z,FALSE,,,FALSE,ASIA,ASIA,,,,,,,,,NE,WGS84,4522301745,StillImage,image/jpeg,https://dbs.kaum.kagoshima-u.ac.jp/musedb/s_plant/picture/KAG024647/KAG024647.jpg,,,,,,,,,,,,TRUE,data/images/19_KAG024647.jpg,./data/scaled/19_KAG024647.jpg,"K££*^*KÂ¶¤The Kagoshima University Museum KAGO24647
+鹿児島大学総合研究博物館 The Kagoshima University Museum
+20cm
+024647
+鹿兒島高等農林學校植物學標本
+Akebia quinato Decre.
+Hendo: Yamamoto in Settin
+M. Togashi Apr. 19, 1953","{
+  ""scientificName"": ""Akebia quinato Decre."",
+  ""catalogNumber"": ""KAGO24648"",
+  ""recordNumber"": ""024648"",
+  ""recordedBy"": ""Hendo: Yamamoto in Settin, M. Togashi"",
+  ""year"": ""1953"",
+  ""month"": ""4"",
+  ""day"": ""19"",
+  ""dateIdentified"": null,
+  ""identifiedBy"": null,
+  ""verbatimIdentification"": ""Akebia quinato Decre."",
+  ""country"": ""Kagoshima"",
+  ""countryCode"": ""JP"",
+  ""decimalLatitude"": ""30.6206"",
+  ""decimalLongitude"": ""129.8667"",
+  ""location"": ""Kagoshima Prefecture"",
+  ""minimumElevationInMeters"": ""200"",
+  ""maximumElevationInMeters"": ""400"",
+  ""verbatimElevation"": ""200-400""
+}","{""scientificName"": ""Akebia quinato Decre."", ""catalogNumber"": ""KAGO24647"", ""recordedBy"": ""M. Togashi"", ""year"": ""1953"", ""month"": 4, ""day"": 19, ""identifiedBy"": ""Yamamoto in Settin"", ""country"": ""Japan"", ""location"": ""Kagoshima University""}","{""scientificName"":""Akebia quinato Decre."",""catalogNumber"":""KAGO24647"",""recordNumber"":""024647"",""recordedBy"":""M. Togashi"",""year"":""1953"",""month"":4,""day"":19}","{""scientificName"":""Akebia quinato"",""catalogNumber"":""KAGO24647"",""recordNumber"":""024647"",""recordedBy"":""M. Togashi"",""year"":""1953"",""month"":""4"",""day"":""19"",""country"":""Japan"",""location"":""Settin""}"

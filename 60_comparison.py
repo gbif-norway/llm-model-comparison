@@ -9,10 +9,10 @@ import plotly.graph_objects as go
 
 def get_models_similarity_scores():
     df = pd.read_csv('data/data_subset_with_model_responses.csv', on_bad_lines='skip', dtype=str)
-    df = df[~df[['llama-3.1-8b_response', 'gpt-4o_response', 'gpt-4_response', 'gpt-4o-mini_response', 'gpt-4-turbo_response']].isin(['FAIL', '{}', '']).any(axis=1)]
-    df = df[df[['llama-3.1-8b_response', 'gpt-4o_response', 'gpt-4_response', 'gpt-4o-mini_response', 'gpt-4-turbo_response']].apply(lambda x: x.str.strip() != '{}').all(axis=1)]
+    df = df[~df[['llama-3.1-8b_response', 'gpt-4o_response', 'gpt-4_response', 'gpt-4o-mini_response', 'gpt-4-turbo_response', 'claude-3.5-sonnet_response']].isin(['FAIL', '{}', '']).any(axis=1)]
+    df = df[df[['llama-3.1-8b_response', 'gpt-4o_response', 'gpt-4_response', 'gpt-4o-mini_response', 'gpt-4-turbo_response', 'claude-3.5-sonnet_response']].apply(lambda x: x.str.strip() != '{}').all(axis=1)]
 
-    models = ['llama-3.1-8b', 'gpt-4', 'gpt-4o', 'gpt-4o-mini', 'gpt-4-turbo']
+    models = ['llama-3.1-8b', 'gpt-4', 'gpt-4o', 'gpt-4o-mini', 'gpt-4-turbo', 'claude-3.5-sonnet']
     model_similarities = {model: [] for model in models}
     for model in models:
         for _, row in df.iterrows():
@@ -126,10 +126,10 @@ def plot_similarity_heatmap(similarity_df, title, num_records):
     return fig
 
 # Main execution
-models = ['llama-3.1-8b', 'gpt-4', 'gpt-4o', 'gpt-4o-mini', 'gpt-4-turbo']
+models = ['llama-3.1-8b', 'gpt-4', 'gpt-4o', 'gpt-4o-mini', 'gpt-4-turbo', 'claude-3.5-sonnet']
 df = pd.read_csv('data/data_subset_with_model_responses.csv', on_bad_lines='skip', dtype=str)
-df = df[~df[['llama-3.1-8b_response', 'gpt-4o_response', 'gpt-4_response', 'gpt-4o-mini_response', 'gpt-4-turbo_response']].isin(['FAIL', '{}', '']).any(axis=1)]
-df = df[df[['llama-3.1-8b_response', 'gpt-4o_response', 'gpt-4_response', 'gpt-4o-mini_response', 'gpt-4-turbo_response']].apply(lambda x: x.str.strip() != '{}').all(axis=1)]
+df = df[~df[['llama-3.1-8b_response', 'gpt-4o_response', 'gpt-4_response', 'gpt-4o-mini_response', 'gpt-4-turbo_response', 'claude-3.5-sonnet_response']].isin(['FAIL', '{}', '']).any(axis=1)]
+df = df[df[['llama-3.1-8b_response', 'gpt-4o_response', 'gpt-4_response', 'gpt-4o-mini_response', 'gpt-4-turbo_response', 'claude-3.5-sonnet_response']].apply(lambda x: x.str.strip() != '{}').all(axis=1)]
 
 num_records = len(df)
 

@@ -1,6 +1,7 @@
 import pandas as pd
 from langchain_community.llms import HuggingFacePipeline
 from langchain_community.llms import OpenAI
+from langchain_community.llms import HuggingFaceHub
 from langchain_community.chat_models import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate, HumanMessagePromptTemplate, SystemMessagePromptTemplate
 from langchain.schema.runnable import RunnablePassthrough
@@ -11,6 +12,7 @@ from huggingface_hub import login
 from tqdm import tqdm
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 import torch
+from langchain_anthropic import ChatAnthropic
 
 # Load environment variables from .env file
 load_dotenv()
@@ -98,12 +100,17 @@ pipe = pipeline(
 )
 
 models = {
-    "llama-3.1-8b": HuggingFacePipeline(pipeline=pipe),
-    "gpt-4o": ChatOpenAI(model_name="gpt-4o", api_key=os.getenv("OPENAI_API_KEY")),
-    "gpt-4": ChatOpenAI(model_name="gpt-4", api_key=os.getenv("OPENAI_API_KEY")),
-    "gpt-4o-mini": ChatOpenAI(model_name="gpt-4o-mini", api_key=os.getenv("OPENAI_API_KEY")),
-    "gpt-4-turbo": ChatOpenAI(model_name="gpt-4-turbo", api_key=os.getenv("OPENAI_API_KEY")),
-
+    # "llama-3.1-8b": HuggingFacePipeline(pipeline=pipe),
+    # "gpt-4o": ChatOpenAI(model_name="gpt-4o", api_key=os.getenv("OPENAI_API_KEY")),
+    # "gpt-4": ChatOpenAI(model_name="gpt-4", api_key=os.getenv("OPENAI_API_KEY")),
+    # "gpt-4o-mini": ChatOpenAI(model_name="gpt-4o-mini", api_key=os.getenv("OPENAI_API_KEY")),
+    # "gpt-4-turbo": ChatOpenAI(model_name="gpt-4-turbo", api_key=os.getenv("OPENAI_API_KEY")),
+    # "llama-3.1-70b": HuggingFaceHub(
+    #     repo_id="meta-llama/Llama-2-70b-chat-hf",
+    #     model_kwargs={"temperature": 0.7, "max_new_tokens": 1024},
+    #     huggingfacehub_api_token=HUGGINGFACE_TOKEN
+    # ),
+    "claude-3.5-sonnet": ChatAnthropic(model="claude-3-sonnet-20240229", anthropic_api_key=os.getenv("ANTHROPIC_API_KEY")),
     # Add more models as needed
 }
 
@@ -123,7 +130,7 @@ def run_prompt(model, ocr_text):
         else:
             return response.strip()
     elif hasattr(response, 'content'):
-        # For ChatOpenAI models
+        # For ChatOpenAI and ChatAnthropic models
         return response.content.strip()
     else:
         raise ValueError(f"Unexpected response format: {type(response)}")

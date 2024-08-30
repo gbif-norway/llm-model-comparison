@@ -8,3 +8,4 @@ google-cloud-vision
 fuzzywuzzy
 plotly
 langchain-anthropic
+requests

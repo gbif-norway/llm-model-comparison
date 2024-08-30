@@ -95,6 +95,18 @@ def plot_similarity_heatmap(similarity_df, title, num_records):
         hovertemplate='Model: %{y}<br>%{x}: %{z:.2f}<extra></extra>'
     ))
 
+    # Add text annotations for mean total column
+    for i, model in enumerate(rankings_table.index):
+        value = rankings_table.loc[model, mean_total_col]
+        if pd.notna(value):
+            fig.add_annotation(
+                x=mean_total_col,
+                y=model,
+                text=str(round(value)),
+                showarrow=False,
+                font=dict(color="black")
+            )
+
     # Add the rest of the columns (in blue)
     fig.add_trace(go.Heatmap(
         z=rankings_table[cols[1:]].values,
@@ -106,6 +118,19 @@ def plot_similarity_heatmap(similarity_df, title, num_records):
         name="Individual Scores",
         hovertemplate='Model: %{y}<br>%{x}: %{z:.2f}<extra></extra>'
     ))
+
+    # Add text annotations for individual scores
+    for i, model in enumerate(rankings_table.index):
+        for j, col in enumerate(cols[1:]):
+            value = rankings_table.loc[model, col]
+            if pd.notna(value):
+                fig.add_annotation(
+                    x=col,
+                    y=model,
+                    text=str(round(value)),
+                    showarrow=False,
+                    font=dict(color="black")
+                )
 
     fig.update_layout(
         title=f"{title} (n={num_records})",

@@ -1,5 +1,11 @@
 pandas
+python-dwca-reader
 langchain
 langchain-openai
 langchain_huggingface
 ipykernel
+google-cloud-vision
+fuzzywuzzy
+plotly
+langchain-anthropic
+requests
